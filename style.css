@@ -1,0 +1,64 @@
+.box{
+    width: 60vw;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: self-start;
+    border: 2px rgb(204, 122, 84);
+    padding: 10px;
+}
+.hii{
+    
+    display: flex;
+    justify-content: center;
+    align-items: self-end;
+   padding: 30px;
+
+}
+
+.box p{
+    background-color: pink;
+    mix-blend-mode: screen;
+    font-size: 40px;
+    display: flex;
+    align-items: self-start;
+
+}
+
+.btn1{
+    display: flex;
+    justify-content: center;
+    padding: 10vw;
+}
+  
+.btn1 button{
+    padding: 10px;
+    padding-right: 30px;
+    margin: 10vw;
+    padding-left: 30px;
+    border-radius: 15px;
+    background-color: plum;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.btn2 button{
+    padding: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 15px;
+    background-color: plum;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+
+body{
+    height: 100vw;
+    background: black url(IMG-20240228-WA0036.jpg);
+    background-blend-mode: difference;
+    background-position: top;
+}
+
+
+   
